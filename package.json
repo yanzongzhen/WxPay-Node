@@ -1,0 +1,28 @@
+{
+  "name": "php2node-wxpay",
+  "version": "1.0.0",
+  "description": "node wechat pay api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yanzongzhen/WxPay-Node.git"
+  },
+  "keywords": [
+    "wechat",
+    "pay"
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "xml2js": "^0.4.19",
+    "urllib": "^2.33.0"
+  },
+  "author": "yanzongzhen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanzongzhen/WxPay-Node/issues"
+  },
+  "homepage": "https://github.com/yanzongzhen/WxPay-Node#readme"
+}
